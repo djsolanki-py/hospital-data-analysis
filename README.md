@@ -65,27 +65,27 @@ The project includes multiple dashboard views covering hospital performance, pat
 
 ### 1. Hospital Overview
 
-![Hospital Overview](screenshots/hospital-overview.png)
+![Hospital Overview](Dashboard%20Overview/hospital-overview.png)
 
 ### 2. Patient Demographics
 
-![Patient Demographics](screenshots/patient-demographics.png)
+![Patient Demographics](Dashboard%20Overview/patient-demographics.png)
 
 ### 3. Doctor Performance
 
-![Doctor Performance](screenshots/doctor-performance.png)
+![Doctor Performance](Dashboard%20Overview/doctor-performance.png)
 
 ### 4. Department Analysis
 
-![Department Analysis](screenshots/department-analysis.png)
+![Department Analysis](Dashboard%20Overview/department-analysis.png)
 
 ### 5. Financial Overview
 
-![Financial Overview](screenshots/financial-overview.png)
+![Financial Overview](Dashboard%20Overview/financial-overview.png)
 
 ### 6. Hospital Performance
 
-![Hospital Performance](screenshots/hospital-performance.png)
+![Hospital Performance](Dashboard%20Overview/hospital-performance.png)
 
 ## 📈 Key Performance Indicators
 
